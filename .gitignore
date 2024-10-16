@@ -1,0 +1,13 @@
+/.metadata/
+/RemoteSystemsTempFiles/
+/Servers/*
+/target/*
+/.settings/*
+.idea/*
+/.project
+*.classpath
+*.iml
+bin
+/target/
+.factorypath
+.DS_Store
